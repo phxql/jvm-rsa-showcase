@@ -12,4 +12,6 @@ It showcases:
 
 It's the code for [this blog entry on my blog](https://www.mkammerer.de/blog/rsa-on-the-jvm/).
 
-To start, take a look at [the main method](src/main/java/de/mkammerer/rsaplayground/Main.java).
+To start, take a look at [the main method](src/main/java/de/mkammerer/rsaplayground/Main.java). 
+Encryption from Alice to Bob is [here](src/main/java/de/mkammerer/rsaplayground/Alice.java), decryption from
+Bob is [here](src/main/java/de/mkammerer/rsaplayground/Bob.java).
